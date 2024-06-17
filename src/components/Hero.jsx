@@ -18,7 +18,7 @@ const Hero = () => {
             <span className={styles.sectionSub}>
               Com2000 is a leading AI+Web3
             </span>
-            <span className={`${styles.sectionSub} -mt-3`}>
+            <span className={`${styles.sectionSub} -mt-1`}>
               Accelerator across SE Asia
             </span>
           </p>
